@@ -21,5 +21,6 @@
 ![data-table](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/data-table.png)
 ![data-grid](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/data-grid.png)
 ![react-table](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/react-table.png)
+![context-menu](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/context-menu.png)
 
 
