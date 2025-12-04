@@ -16,3 +16,10 @@
 ![text-animate](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/text-animate.png)
 ![window](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/window.png)
 
+---
+
+![data-table](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/data-table.png)
+![data-grid](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/data-grid.png)
+![react-table](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/react-table.png)
+
+
