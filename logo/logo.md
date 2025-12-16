@@ -13,3 +13,9 @@
 <img width="2752" height="1536" alt="text-animate" src="https://github.com/user-attachments/assets/1af706eb-06bd-4ccb-b003-89b5474f979a" />
 <img width="2752" height="1536" alt="window" src="https://github.com/user-attachments/assets/c9822a97-bfe1-484b-87d6-14f70681dba2" />
 <img width="2752" height="1536" alt="border-animate" src="https://github.com/user-attachments/assets/f967698f-d5d0-4e62-a309-47f67236ad54" />
+
+---
+
+## External
+
+
