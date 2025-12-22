@@ -7,6 +7,7 @@
 ![json-tree](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/json-tree.png)
 ![list-view-table](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/list-view-table.png)
 ![marquee](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/marquee.png)
+![mask](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/mask.png)
 ![onboarding-tour](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/onboarding-tour.png)
 ![parallax](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/parallax.png)
 ![picker](https://raw.githubusercontent.com/gfazioli/mantine-extensions-assets/main/logo/optimized/picker.png)
